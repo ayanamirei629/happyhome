@@ -3,7 +3,7 @@
 
 <!-- ### 画室介绍 -->
 
- <img src = 'https://p.qqan.com/up/2021-2/16137992359659254.jpg' width='300px' height= '50%'>
+ <img src = 'https://p.qqan.com/up/2021-2/16137992359659254.jpg' width='100%' height= '100%'>
 
 ## 1.画室简介
 
