@@ -8,55 +8,11 @@ export const siteData = {
   "headTags": [],
   "pages": [
     {
-      "frontmatter": {},
-      "regularPath": "/drawer/list.html",
-      "relativePath": "drawer/list.md",
-      "key": "v-5e63c64e",
-      "path": "/drawer/list.html",
-      "headers": [
-        {
-          "level": 2,
-          "title": "艾利欧 - 静语庄园",
-          "slug": "艾利欧-静语庄园"
-        },
-        {
-          "level": 2,
-          "title": "南鱼七 - 静语庄园",
-          "slug": "南鱼七-静语庄园"
-        },
-        {
-          "level": 2,
-          "title": "Rosin - 琥珀原",
-          "slug": "rosin-琥珀原"
-        },
-        {
-          "level": 2,
-          "title": "兔牙牙 - 静语庄园",
-          "slug": "兔牙牙-静语庄园"
-        },
-        {
-          "level": 2,
-          "title": "疫响 - 静语庄园",
-          "slug": "疫响-静语庄园"
-        },
-        {
-          "level": 2,
-          "title": "药丸惹 - 摩杜纳",
-          "slug": "药丸惹-摩杜纳"
-        },
-        {
-          "level": 2,
-          "title": "老老头 - 静语庄园",
-          "slug": "老老头-静语庄园"
-        }
-      ]
-    },
-    {
       "title": "快乐老家画室",
       "frontmatter": {},
       "regularPath": "/",
       "relativePath": "README.md",
-      "key": "v-bce8df8c",
+      "key": "v-82533fee",
       "path": "/",
       "headers": [
         {
@@ -82,31 +38,11 @@ export const siteData = {
       ]
     },
     {
-      "title": "活动时间&地点",
-      "frontmatter": {},
-      "regularPath": "/event/box_event.html",
-      "relativePath": "event/box_event.md",
-      "key": "v-691fb098",
-      "path": "/event/box_event.html",
-      "headers": [
-        {
-          "level": 2,
-          "title": "活动时间&地点",
-          "slug": "活动时间-地点"
-        },
-        {
-          "level": 2,
-          "title": "购买方式",
-          "slug": "购买方式"
-        }
-      ]
-    },
-    {
       "title": "操作手册",
       "frontmatter": {},
       "regularPath": "/guide.html",
       "relativePath": "guide.md",
-      "key": "v-059572be",
+      "key": "v-1d05cfb2",
       "path": "/guide.html",
       "headers": [
         {
@@ -188,6 +124,70 @@ export const siteData = {
           "level": 3,
           "title": "2.目录栏",
           "slug": "_2-目录栏"
+        }
+      ]
+    },
+    {
+      "title": "活动时间&地点",
+      "frontmatter": {},
+      "regularPath": "/event/box_event.html",
+      "relativePath": "event/box_event.md",
+      "key": "v-d66b0376",
+      "path": "/event/box_event.html",
+      "headers": [
+        {
+          "level": 2,
+          "title": "活动时间&地点",
+          "slug": "活动时间-地点"
+        },
+        {
+          "level": 2,
+          "title": "购买方式",
+          "slug": "购买方式"
+        }
+      ]
+    },
+    {
+      "frontmatter": {},
+      "regularPath": "/drawer/list.html",
+      "relativePath": "drawer/list.md",
+      "key": "v-3b623ddf",
+      "path": "/drawer/list.html",
+      "headers": [
+        {
+          "level": 2,
+          "title": "艾利欧 - 静语庄园",
+          "slug": "艾利欧-静语庄园"
+        },
+        {
+          "level": 2,
+          "title": "南鱼七 - 静语庄园",
+          "slug": "南鱼七-静语庄园"
+        },
+        {
+          "level": 2,
+          "title": "Rosin - 琥珀原",
+          "slug": "rosin-琥珀原"
+        },
+        {
+          "level": 2,
+          "title": "兔牙牙 - 静语庄园",
+          "slug": "兔牙牙-静语庄园"
+        },
+        {
+          "level": 2,
+          "title": "疫响 - 静语庄园",
+          "slug": "疫响-静语庄园"
+        },
+        {
+          "level": 2,
+          "title": "药丸惹 - 摩杜纳",
+          "slug": "药丸惹-摩杜纳"
+        },
+        {
+          "level": 2,
+          "title": "老老头 - 静语庄园",
+          "slug": "老老头-静语庄园"
         }
       ]
     }
