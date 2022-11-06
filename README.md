@@ -1,4 +1,9 @@
-## **本地部署、安装**
+# [快乐老家画室]()
+
+<img src = 'https://p.qqan.com/up/2021-2/16137992359659254.jpg' width='100%' height= '100%'>
+
+
+<!-- ## **本地部署、安装**
 
 1. 全局安装VuePress: **npm install -g vuepress**
 
@@ -37,4 +42,4 @@
 
 
 
-[头像]: https://p.qqan.com/up/2021-2/16137992359659254.jpg
+[头像]: https://p.qqan.com/up/2021-2/16137992359659254.jpg -->
