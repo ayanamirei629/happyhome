@@ -8,7 +8,6 @@ module.exports =
   // ],
   title: '快乐老家速写室',
   description: '多一份FF14的热爱',
-  base:'/happyhome/',
   themeConfig: 
   {
     nav: 

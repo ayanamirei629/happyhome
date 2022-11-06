@@ -9,6 +9,14 @@ import GlobalLayout from "C:\\Users\\Yingge Hu\\Desktop\\VS CODE\\local\\happyho
 injectComponentOption(GlobalLayout, 'mixins', rootMixins)
 export const routes = [
   {
+    name: "v-3b623ddf",
+    path: "/drawer/list.html",
+    component: GlobalLayout,
+    beforeEnter: (to, from, next) => {
+      ensureAsyncComponentsLoaded("Layout", "v-3b623ddf").then(next)
+    },
+  },
+  {
     name: "v-82533fee",
     path: "/",
     component: GlobalLayout,
@@ -26,14 +34,6 @@ export const routes = [
     component: GlobalLayout,
     beforeEnter: (to, from, next) => {
       ensureAsyncComponentsLoaded("Layout", "v-d66b0376").then(next)
-    },
-  },
-  {
-    name: "v-3b623ddf",
-    path: "/drawer/list.html",
-    component: GlobalLayout,
-    beforeEnter: (to, from, next) => {
-      ensureAsyncComponentsLoaded("Layout", "v-3b623ddf").then(next)
     },
   },
   {

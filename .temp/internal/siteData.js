@@ -4,9 +4,53 @@
 export const siteData = {
   "title": "快乐老家速写室",
   "description": "多一份FF14的热爱",
-  "base": "/happyhome/",
+  "base": "/",
   "headTags": [],
   "pages": [
+    {
+      "frontmatter": {},
+      "regularPath": "/drawer/list.html",
+      "relativePath": "drawer/list.md",
+      "key": "v-3b623ddf",
+      "path": "/drawer/list.html",
+      "headers": [
+        {
+          "level": 2,
+          "title": "艾利欧 - 静语庄园",
+          "slug": "艾利欧-静语庄园"
+        },
+        {
+          "level": 2,
+          "title": "南鱼七 - 静语庄园",
+          "slug": "南鱼七-静语庄园"
+        },
+        {
+          "level": 2,
+          "title": "Rosin - 琥珀原",
+          "slug": "rosin-琥珀原"
+        },
+        {
+          "level": 2,
+          "title": "兔牙牙 - 静语庄园",
+          "slug": "兔牙牙-静语庄园"
+        },
+        {
+          "level": 2,
+          "title": "疫响 - 静语庄园",
+          "slug": "疫响-静语庄园"
+        },
+        {
+          "level": 2,
+          "title": "药丸惹 - 摩杜纳",
+          "slug": "药丸惹-摩杜纳"
+        },
+        {
+          "level": 2,
+          "title": "老老头 - 静语庄园",
+          "slug": "老老头-静语庄园"
+        }
+      ]
+    },
     {
       "title": "快乐老家画室",
       "frontmatter": {},
@@ -54,50 +98,6 @@ export const siteData = {
           "level": 2,
           "title": "购买方式",
           "slug": "购买方式"
-        }
-      ]
-    },
-    {
-      "frontmatter": {},
-      "regularPath": "/drawer/list.html",
-      "relativePath": "drawer/list.md",
-      "key": "v-3b623ddf",
-      "path": "/drawer/list.html",
-      "headers": [
-        {
-          "level": 2,
-          "title": "艾利欧 - 静语庄园",
-          "slug": "艾利欧-静语庄园"
-        },
-        {
-          "level": 2,
-          "title": "南鱼七 - 静语庄园",
-          "slug": "南鱼七-静语庄园"
-        },
-        {
-          "level": 2,
-          "title": "Rosin - 琥珀原",
-          "slug": "rosin-琥珀原"
-        },
-        {
-          "level": 2,
-          "title": "兔牙牙 - 静语庄园",
-          "slug": "兔牙牙-静语庄园"
-        },
-        {
-          "level": 2,
-          "title": "疫响 - 静语庄园",
-          "slug": "疫响-静语庄园"
-        },
-        {
-          "level": 2,
-          "title": "药丸惹 - 摩杜纳",
-          "slug": "药丸惹-摩杜纳"
-        },
-        {
-          "level": 2,
-          "title": "老老头 - 静语庄园",
-          "slug": "老老头-静语庄园"
         }
       ]
     },
