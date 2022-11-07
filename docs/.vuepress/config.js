@@ -8,7 +8,7 @@ module.exports =
   // ],
   title: '快乐老家速写室',
   description: '多一份FF14的热爱',
-  // base: "/ayanamirei629.github.io/docs/",
+  base: "/https://www.ffhome.vip/",
   themeConfig: 
   {
     nav: 
