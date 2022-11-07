@@ -4,7 +4,7 @@
 export const siteData = {
   "title": "快乐老家速写室",
   "description": "多一份FF14的热爱",
-  "base": "/https://www.ffhome.vip/",
+  "base": "/",
   "headTags": [],
   "pages": [
     {
