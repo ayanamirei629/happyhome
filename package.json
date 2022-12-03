@@ -12,6 +12,10 @@
   "author": "",
   "license": "ISC",
   "devDependencies": {
+    "@vuepress/plugin-google-analytics": "^1.9.7",
     "vuepress": "^1.9.7"
+  },
+  "dependencies": {
+    "canvas": "^2.10.2"
   }
 }

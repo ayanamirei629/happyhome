@@ -9,7 +9,7 @@ npm run docs:build
 # 进入生成的文件夹
 cd docs/.vuepress/dist
 
-echo 'www.ffhome.vip' > CNAME
+# echo 'www.ffhome.vip' > CNAME
 
 git init
 git add -A
