@@ -199,7 +199,11 @@
 <img src="../paint/角鸮号/6.jpg" width='30%' height= '50%'>
 <img src="../paint/角鸮号/7.jpg" width='90%' height= '100%'>
 
-## 科斯的孤儿
+## 科斯的孤儿 -紫水栈桥
+* 隔壁十元店分店，店长亲自加入商品陈列，买了就爆炸，随机附赠任意数量养殖鱼  
+<img src="../paint/科斯的孤儿/3.jpg" width='30%' height= '50%'>
+<img src="../paint/科斯的孤儿/1.jpg" width='30%' height= '50%'>
+<img src="../paint/科斯的孤儿/2.jpg" width='30%' height= '50%'>
 
 ## 星間 - 海猫茶屋
 * 这里是星间！！
