@@ -28,7 +28,7 @@ module.exports =
         items: [
           {
             text: "中国",
-            link: "https://craighu.gitee.io",
+            link: "https://www.ffhome.vip/",
             target:'_self', rel:false
           },
           {
