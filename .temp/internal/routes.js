@@ -29,6 +29,22 @@ export const routes = [
     },
   },
   {
+    name: "v-b1c8d44c",
+    path: "/event/box_event_cur.html",
+    component: GlobalLayout,
+    beforeEnter: (to, from, next) => {
+      ensureAsyncComponentsLoaded("Layout", "v-b1c8d44c").then(next)
+    },
+  },
+  {
+    name: "v-5f82029a",
+    path: "/event/christmas_event.html",
+    component: GlobalLayout,
+    beforeEnter: (to, from, next) => {
+      ensureAsyncComponentsLoaded("Layout", "v-5f82029a").then(next)
+    },
+  },
+  {
     name: "v-12f68e8e",
     path: "/event/box_event_info.html",
     component: GlobalLayout,
@@ -42,22 +58,6 @@ export const routes = [
     component: GlobalLayout,
     beforeEnter: (to, from, next) => {
       ensureAsyncComponentsLoaded("Layout", "v-5fe308ac").then(next)
-    },
-  },
-  {
-    name: "v-5f82029a",
-    path: "/event/christmas_event.html",
-    component: GlobalLayout,
-    beforeEnter: (to, from, next) => {
-      ensureAsyncComponentsLoaded("Layout", "v-5f82029a").then(next)
-    },
-  },
-  {
-    name: "v-b1c8d44c",
-    path: "/event/box_event_cur.html",
-    component: GlobalLayout,
-    beforeEnter: (to, from, next) => {
-      ensureAsyncComponentsLoaded("Layout", "v-b1c8d44c").then(next)
     },
   },
   {

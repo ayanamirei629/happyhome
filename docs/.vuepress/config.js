@@ -97,7 +97,7 @@ module.exports =
       //   ],
       // },
     ],
-    smoothScroll: true,
+    smoothScroll: false,
     // editLinkText: 'Help us improve this page!'
   },
 };

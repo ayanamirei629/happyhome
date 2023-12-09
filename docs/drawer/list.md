@@ -10,17 +10,37 @@ sidebar: false
 # 快乐老家常驻画师
 <img src="../paint/icon/paint_list_pic1.jpg" width='100%' height= '100%'/>
 
+## Acid - 琥珀原
+* 您好，这里是酸茨_Acid
+* 打本人，讨伐高难都有可能出现，会在各个队里缓缓飘过，主打的就是一个苦难之心直爆
+* 目前画法绝赞练习中，最喜欢把各位变成qq人（画彩虹）（you are qq人！）
+* wb：acidiling 置顶有约稿条 欢迎扩列
+
+<img src="../paint/Acid/1.jpg" width='90%' height= '50%'>
+<img src="../paint/Acid/2.jpg" width='30%' height= '50%'>
+<img src="../paint/Acid/3.jpg" width='30%' height= '50%'>
+<img src="../paint/Acid/4.jpg" width='30%' height= '50%'>
+
+## Aiglos - 延夏
+* 你好^-^ 画风随机如下，库啵
+* 常驻鲸鱼挂机、金蝶、挖宝、打本......没了
+* 如果你也喜欢龙男和卢比坎特我们就是好朋友
+
+<img src="../paint/Aiglos/1.jpg" width='45%' height= '50%'>
+<img src="../paint/Aiglos/2.jpg" width='45%' height= '50%'>
+<img src="../paint/Aiglos/3.jpg" width='90%' height= '50%'>
+<img src="../paint/Aiglos/4.jpg" width='45%' height= '50%'>
+<img src="../paint/Aiglos/5.jpg" width='45%' height= '50%'>
 
 ## Alevy - 延夏
 * 您好，可以叫我峋/阿峋
-* 暂时没有速写例图。比较擅长画有点氛围感的画，会想试很多东西，但就是速度很慢TT。可以接稿，目前不擅长鲁加，高地和大猫（但是速写大欢迎！）
-* wb:峋稚 ，欢迎扩列~
+* 比较擅长画有点氛围感的画，会想试很多东西，但就是速度很慢TT。可以接稿
 
-<img src="../paint/Alevy/1.jpg" width='90%' height= '50%'>
+<img src="../paint/Alevy/1.jpg" width='45%' height= '50%'>
 <img src="../paint/Alevy/2.jpg" width='45%' height= '50%'>
 <img src="../paint/Alevy/3.jpg" width='45%' height= '50%'>
 <img src="../paint/Alevy/4.jpg" width='45%' height= '50%'>
-<img src="../paint/Alevy/5.jpg" width='45%' height= '50%'>
+
 
 ## Arkio - 紫水栈桥
 * 我是阿荒！
@@ -32,7 +52,7 @@ sidebar: false
 <img src="../paint/Arkio/2.jpg" width='45%' height= '50%'>
 <img src="../paint/Arkio/3.jpg" width='45%' height= '50%'>
 
-## 阿丽阿多 - 静语庄园
+<!-- ## 阿丽阿多 - 静语庄园
 * 大噶好我是阿丽！mhs：北隐之兆（其他平台同名）
 * 擅长画可爱的Q版，什么样子的角色都可以尝试一下，来者不拒！
 * 希望可以一起愉快玩耍！啾咪！  
@@ -41,7 +61,7 @@ sidebar: false
 <img src="../paint/阿丽阿多/3.jpg" width='45%' height= '50%'>
 <img src="../paint/阿丽阿多/4.jpg" width='45%' height= '50%'>
 <img src="../paint/阿丽阿多/5.jpg" width='45%' height= '50%'>
-<img src="../paint/阿丽阿多/6.jpg" width='45%' height= '50%'>
+<img src="../paint/阿丽阿多/6.jpg" width='45%' height= '50%'> -->
 
 ## 艾利欧 - 静语庄园
 * 可以叫俺 飯团团
@@ -97,19 +117,30 @@ sidebar: false
 <img src="../paint/冰鲜柠檬水/1.jpg" width='90%' height= '50%'>
 <img src="../paint/冰鲜柠檬水/2.jpg" width='90%' height= '50%'>
 
-## 长临 - 紫水栈桥
-* 可以叫我长临啦，就两个字好像没什么简化的必要啊哈哈。
+## 不聪明 - 琥珀原
+* 可以叫我小幸or笨笨
+* 展示的都是正稿哩，只能参考画风，盲盒or明盒完成度会低！
+* 有点小社恐>o<····应该很好说话！喜欢可爱的一切！！
+* mhs：浅川幸
+
+<img src="../paint/不聪明/1.jpg" width='30%' height= '50%'>
+<img src="../paint/不聪明/2.jpg" width='30%' height= '50%'>
+<img src="../paint/不聪明/3.jpg" width='30%' height= '50%'>
+<img src="../paint/不聪明/4.jpg" width='90%' height= '50%'>
+
+## 羲鹤 - 紫水栈桥
+* 可以叫我羲鹤啦，就两个字好像没什么简化的必要啊哈哈。
 * 黑白风格会强一点，目前正在努力学习上色中！喜欢画男的！
 * 目前盲盒明盒都是女孩子画的有点累了想画男孩子了！
 * 想画兔男人男猫男男精求求了！  
 <img src="../paint/长临/1.jpg" width='30%' height= '50%'>
-<img src="../paint/长临/2.jpg" width='30%' height= '50%'>
+<img src="../paint/长临/2.jpg" width='23%' height= '50%'>
 <img src="../paint/长临/3.jpg" width='30%' height= '50%'>
-<img src="../paint/长临/4.jpg" width='30%' height= '50%'>
-<img src="../paint/长临/5.jpg" width='30%' height= '50%'>
-<img src="../paint/长临/6.jpg" width='30%' height= '50%'>
 <img src="../paint/长临/7.jpg" width='30%' height= '50%'>
-<img src="../paint/长临/8.jpg" width='30%' height= '50%'>
+<img src="../paint/长临/5.jpg" width='28%' height= '50%'>
+<img src="../paint/长临/4.jpg" width='26%' height= '50%'>
+<img src="../paint/长临/6.jpg" width='28%' height= '50%'>
+<img src="../paint/长临/8.jpg" width='32%' height= '50%'>
 <img src="../paint/长临/9.jpg" width='30%' height= '50%'>
 
 ## 池良 - 静语庄园
@@ -180,16 +211,23 @@ sidebar: false
 ## 古拉哈提亚 - 紫水栈桥
 * 📣惊吓盲盒清仓大甩卖
 * 📣一律10金蝶币，全场10金蝶币
-* 📣10蝶币，买得了吃亏买得了上当  
-<img src="../paint/古拉哈提亚/1.jpg" width='30%' height= '50%'>
-<img src="../paint/古拉哈提亚/2.jpg" width='30%' height= '50%'>
-<img src="../paint/古拉哈提亚/3.jpg" width='30%' height= '50%'>
-<img src="../paint/古拉哈提亚/4.jpg" width='30%' height= '50%'>
-<img src="../paint/古拉哈提亚/5.jpg" width='30%' height= '50%'>
-<img src="../paint/古拉哈提亚/6.jpg" width='30%' height= '50%'>
-<img src="../paint/古拉哈提亚/7.jpg" width='30%' height= '50%'>
-<img src="../paint/古拉哈提亚/8.jpg" width='30%' height= '50%'>
-<img src="../paint/古拉哈提亚/9.jpg" width='30%' height= '50%'>
+* 📣10金蝶币，买得了吃亏买得了上当😈
+
+<img src="../paint/古拉哈提亚/1.jpg" width='45%' height= '50%'>
+<img src="../paint/古拉哈提亚/2.jpg" width='45%' height= '50%'>
+<img src="../paint/古拉哈提亚/3.jpg" width='45%' height= '50%'>
+<img src="../paint/古拉哈提亚/4.jpg" width='45%' height= '50%'>
+
+## 黑貘纹丝不动 - 柔风海湾
+* 俺是貘，也许会改id但是一般貘字不会变
+* 来自柔风海湾的普通布莱克麻吉。oc人，擅长半厚涂或者日韩系风格，速写店一般是qq人，微博：食口口貘。超级i人，但是如果找我都会认真回复的；）
+
+<img src="../paint/黑貘纹丝不动/1.jpg" width='30%' height= '50%'>
+<img src="../paint/黑貘纹丝不动/2.jpg" width='30%' height= '50%'>
+<img src="../paint/黑貘纹丝不动/3.jpg" width='30%' height= '50%'>
+<img src="../paint/黑貘纹丝不动/4.jpg" width='30%' height= '50%'>
+<img src="../paint/黑貘纹丝不动/5.jpg" width='30%' height= '50%'>
+<img src="../paint/黑貘纹丝不动/6.jpg" width='30%' height= '50%'>
 
 ## 红豆丸子汤 - 摩杜纳
 * 丸子/桃/小A
@@ -207,6 +245,16 @@ sidebar: false
 <img src="../paint/红豆丸子汤/7.jpg" width='30%' height= '50%'>
 <img src="../paint/红豆丸子汤/8.jpg" width='30%' height= '50%'>
 <img src="../paint/红豆丸子汤/9.jpg" width='30%' height= '40%'>
+
+## Huafan - 延夏
+
+* 可以叫我饭饭 
+* 可约稿走工房  婉拒龙男鲁加男大猫佣兵头（私心喜欢画兔）常驻盒是qq人 如想约其他的可以私聊我！
+
+<img src="../paint/huafan/1.jpg" width='41%' height= '50%'>
+<img src="../paint/huafan/2.jpg" width='48%' height= '50%'>
+<img src="../paint/huafan/3.jpg" width='60%' height= '50%'>
+<img src="../paint/huafan/4.jpg" width='30%' height= '50%'>
 
 ## 加州清光 - 海猫茶屋
 * 喜欢画可爱妹妹和瑟瑟 画风不稳定
@@ -229,9 +277,9 @@ sidebar: false
 <img src="../paint/剑盾小哔/4.jpg" width='30%' height= '50%'>
 <img src="../paint/剑盾小哔/5.jpg" width='30%' height= '50%'>
 <img src="../paint/剑盾小哔/6.jpg" width='30%' height= '50%'>
-<img src="../paint/剑盾小哔/4.jpg" width='30%' height= '50%'>
-<img src="../paint/剑盾小哔/5.jpg" width='30%' height= '50%'>
-<img src="../paint/剑盾小哔/6.jpg" width='30%' height= '50%'>
+<img src="../paint/剑盾小哔/7.jpg" width='30%' height= '50%'>
+<img src="../paint/剑盾小哔/8.jpg" width='30%' height= '50%'>
+<img src="../paint/剑盾小哔/9.jpg" width='30%' height= '50%'>
 
 ## 座頭鯨 - 延夏
 * 哒人们，我是真的来画速写的…（低头）
@@ -276,7 +324,7 @@ sidebar: false
 
 ## Crite - 琥珀原
 * 称呼crite或巳时眠都可以！
-* 好像没有什么固定画风，摸鱼状态也比较随意，较为擅长偏游戏幻想感一点的风格，喜欢夸张或有个人风格的造型！
+* 好像  没有什么固定画风，摸鱼状态也比较随意，较为擅长偏游戏幻想感一点的风格，喜欢夸张或有个人风格的造型！
 * 可以约稿  
 
 <img src="../paint/Crite/1.jpg" width='30%' height= '50%'>
@@ -370,10 +418,10 @@ sidebar: false
 
 ## 冷火波勒克兰 - 柔风海湾
 * 俺是阿困，或者按id叫波波也行(｡･∀･)ﾉﾞ
-* 目前是实习期社畜，擅长大头/儿童画（不是的）的油库里，画画很菜，复杂发型苦手，不擅长上色而且还是比例废物，出图速度根据我光之拍照工接单的修图数量有关（心虚）要修的图多了可能会慢一点。
+* 目前是社畜，擅长大头/儿童画，画画很菜，复杂发型苦手，不擅长上色而且还是比例废物，出图速度比较慢，画风比较不稳定，最好以最近活动图为准
 
 <img src="../paint/冷火波勒克兰/1.jpg" width='30%' height= '50%'>
-<img src="../paint/冷火波勒克兰/2.jpg" width='30%' height= '50%'>
+<img src="../paint/冷火波勒克兰/2.jpg" width='24%' height= '50%'>
 <img src="../paint/冷火波勒克兰/3.jpg" width='30%' height= '50%'>
 <img src="../paint/冷火波勒克兰/4.jpg" width='30%' height= '50%'>
 <img src="../paint/冷火波勒克兰/5.jpg" width='30%' height= '50%'>
@@ -418,6 +466,18 @@ sidebar: false
 <img src="../paint/笼岛芒/4.jpg" width='30%' height= '50%'>
 <img src="../paint/笼岛芒/5.jpg" width='30%' height= '50%'>
 <img src="../paint/笼岛芒/6.jpg" width='30%' height= '50%'>
+
+## 洛鱼 - 静语庄园
+* 名字就是洛鱼！请随意称呼～
+* 豆芽来赚点装备钱！不太会画男的和成熟姐姐，不会画是我的问题不是老板的问题！
+* （也不太会画盔甲类，太复杂的画不来！）
+
+<img src="../paint/洛鱼/1.jpg" width='30%' height= '50%'>
+<img src="../paint/洛鱼/2.jpg" width='30%' height= '50%'>
+<img src="../paint/洛鱼/4.jpg" width='30%' height= '50%'>
+<img src="../paint/洛鱼/5.jpg" width='30%' height= '50%'>
+<img src="../paint/洛鱼/3.jpg" width='30%' height= '50%'>
+<img src="../paint/洛鱼/6.jpg" width='30%' height= '50%'>
 
 ## 绿宝石兽- 静语庄园
 * 可以叫我小绿/喵喵
@@ -476,7 +536,6 @@ sidebar: false
 <img src="../paint/奇弗利/3.jpg" width='30%' height= '50%'>
 <img src="../paint/奇弗利/4.jpg" width='30%' height= '50%'>
 <img src="../paint/奇弗利/5.jpg" width='30%' height= '50%'>
-<img src="../paint/奇弗利/6.jpg" width='30%' height= '50%'>
 
 ## Ps保存了吗 - 静语庄园
 * 可以喊我--茶茶♪(^∇^*)
@@ -515,6 +574,7 @@ sidebar: false
 <img src="../paint/Rosin/8.jpg" width='30%' height= '50%'>
 <img src="../paint/Rosin/9.jpg" width='30%' height= '50%'>
 
+
 ## 萨蘭特 - 静语庄园
 * 大家好我系嗳夏！可以叫我夏夏！
 * 微博@菠萝嗳夏堡 欢迎和我一起玩！！！
@@ -527,6 +587,20 @@ sidebar: false
 <img src="../paint/萨蘭特/3.jpg" width='30%' height= '50%'>
 <img src="../paint/萨蘭特/8.jpg" width='30%' height= '50%'>
 <img src="../paint/萨蘭特/7.jpg" width='30%' height= '50%'>
+
+## 每日动态速写 - 紫水栈桥
+* 可以叫尼尼也可以叫鸭鸭
+* 点卡玩家，日常选手
+* 不挑角色，啥都能画，遇见喜欢的会多画点
+* 私稿只接金，不接急稿
+* 扩列随意——(✪ω✪)    
+
+<img src="../paint/三角头的翘臀/1.jpg" width='30%' height= '50%'>
+<img src="../paint/三角头的翘臀/2.jpg" width='30%' height= '50%'>
+<img src="../paint/三角头的翘臀/3.jpg" width='30%' height= '50%'>
+<img src="../paint/三角头的翘臀/4.jpg" width='30%' height= '50%'>
+<img src="../paint/三角头的翘臀/5.jpg" width='30%' height= '50%'>
+<img src="../paint/三角头的翘臀/6.jpg" width='30%' height= '50%'>
 
 
 ## Salons - 静语庄园
@@ -548,6 +622,36 @@ sidebar: false
 <img src="../paint/Salons/8.jpg" width='30%' height= '50%'>
 <img src="../paint/Salons/9.jpg" width='30%' height= '50%'>
 
+## saku翼 - 摩杜纳
+
+* 这里是saku翼，也可以叫我小翼（更喜欢
+* 个人简介： 
+偶尔战场，只要喊上一定会来的那种。
+平常多玩手游，如果你也玩（方舟、无期、1999）你就是我同父异母的亲姐妹！！
+* 欢迎私约稿糖金都可以，孩子不挑食，画风偏“硬”，最近喜欢画女孩子，如果有可爱妹妹或者绘画同行找我一起玩一起画画就更好了！！~~  
+
+<img src="../paint/saku翼/1.jpg" width='30%' height= '50%'>
+<img src="../paint/saku翼/2.jpg" width='27%' height= '50%'>
+<img src="../paint/saku翼/4.jpg" width='33%' height= '50%'>
+<img src="../paint/saku翼/3.jpg" width='30%' height= '50%'>
+<img src="../paint/saku翼/5.jpg" width='30%' height= '50%'>
+<img src="../paint/saku翼/6.jpg" width='30%' height= '50%'>
+
+## 塞芙拉 - 紫水栈桥
+
+* 我是伤害降低，我改名了.jpg
+* 什么体型都能画（但正比肌肉男不是很擅长x）想尝试更多的风格~可以接稿稿但是要看有没有空（平时挺忙的zzz）
+* 我好想画正比肥肥……好想画肉肉……（阴暗的爬行ing）
+* 盒子质量看灵感随机掉落，盲盒也有可能画成常驻…总之就是纯看灵感（下跪）
+
+<img src="../paint/伤害降低/1.jpg" width='28%' height= '50%'>
+<img src="../paint/伤害降低/2.jpg" width='30%' height= '50%'>
+<img src="../paint/伤害降低/3.jpg" width='30%' height= '50%'>
+<img src="../paint/伤害降低/4.jpg" width='45%' height= '50%'>
+<img src="../paint/伤害降低/5.jpg" width='45%' height= '50%'>
+<img src="../paint/伤害降低/6.jpg" width='42%' height= '50%'>
+<img src="../paint/伤害降低/7.jpg" width='45%' height= '50%'>
+
 ## 水澤 - 柔风海湾
 * 我是水澤！
 * 微博ID【·薇不足道·】社恐但是欢迎找我玩！！
@@ -559,6 +663,17 @@ sidebar: false
 <img src="../paint/水澤/3.jpg" width='45%' height= '50%'>
 <img src="../paint/水澤/4.jpg" width='45%' height= '50%'>
 <img src="../paint/水澤/5.jpg" width='90%' height= '50%'>
+
+## 睡眠妨害 - 柔风海湾
+* 直接叫我睡眠妨害就好(︶.̮︶✽)
+* 我喜欢画女性角色！不会画男性角色果咩！可爱小肥还有美丽兔娘摩多摩多！！！
+* 很少画qq人...特别想摸！看到很戳的幻化和角色会多摸一点！
+* 例图只有一些约稿的例图，速写的质量应该会大于等于这些单色的摸鱼稿！
+* 好想和小画家py！我可以为i做e的！！！
+
+<img src="../paint/睡眠妨害/1.jpg" width='30%' height= '50%'>
+<img src="../paint/睡眠妨害/2.jpg" width='30%' height= '50%'>
+<img src="../paint/睡眠妨害/3.jpg" width='30%' height= '50%'>
 
 ## 失耳 - 柔风海湾
 * 你好！可以叫我富贵。
@@ -584,11 +699,23 @@ sidebar: false
 <img src="../paint/甜豆腐脑仙品/6.jpg" width='30%' height= '50%'>
 <img src="../paint/甜豆腐脑仙品/7.jpg" width='30%' height= '50%'>
 
-##  司尘尘 - 晨曦王座
+## 时汪汪汪 - 摩杜纳
+* 您好！可以叫我时犬或者汪汪
+* 喜欢画可爱妹妹，不太擅长男性，在尝试各种画风会有浮动
+* 社畜基本晚上在线，欢迎来找我玩哦~
+
+<img src="../paint/时汪汪汪/1.jpg" width='48.8%' height= '50%'>
+<img src="../paint/时汪汪汪/4.jpg" width='29%' height= '50%'>
+<img src="../paint/时汪汪汪/2.jpg" width='37%' height= '50%'>
+<img src="../paint/时汪汪汪/3.jpg" width='41%' height= '50%'>
+
+## 司尘尘 - 晨曦王座
+
 * 一个花里胡哨的菜鸡
 * 暂不接稿 活动只接扣扣人（因为正比人画的很慢，很慢……）
 * 微博：@司尘尘_图力不足 老福特：司尘尘图力不足
 * 请红毛佣兵头一号脸猫男速速来我房间（塞小卡片  
+
 <img src="../paint/司尘/1.jpg" width='30%' height= '50%'>
 <img src="../paint/司尘/2.jpg" width='30%' height= '50%'>
 <img src="../paint/司尘/3.jpg" width='30%' height= '50%'>
@@ -612,6 +739,15 @@ sidebar: false
 <img src="../paint/松原千夏/5.jpg" width='60%' height= '50%'>
 <img src="../paint/松原千夏/6.jpg" width='90%' height= '50%'>
 
+## 速水铁 - 柔风海湾
+
+* 擅长矮人和年轻女性角色
+* 年轻男性偶尔也可以画
+* 单图层作画 一般无法进行大面积修改
+
+<img src="../paint/速水铁/1.jpg" width='90%' height= '50%'>
+<img src="../paint/速水铁/2.jpg" width='90%' height= '50%'>
+
 ## 酸食过敏 - 延夏
 * 扣泥奇蛙！！俺是酸食——！
 * 正比和qq人都可以画，但最近画qq人比较多。画风偏可爱，画精致漂亮和帅气的角色难免也会变得可爱（）
@@ -620,6 +756,23 @@ sidebar: false
 <img src="../paint/酸食过敏/1.jpg" width='30%' height= '50%'>
 <img src="../paint/酸食过敏/2.jpg" width='30%' height= '50%'>
 <img src="../paint/酸食过敏/3.jpg" width='30%' height= '50%'>
+
+## 糖凌凌凌凌 - 柔风海湾
+
+* 这里糖凌 
+* 会画一点厚涂 质量看心情和时间 人很好说话
+* 不太会画背景 一般背景是色块/简单特效 
+
+<img src="../paint/糖凌/1.jpg" width='30%' height= '50%'>
+<img src="../paint/糖凌/2.jpg" width='30%' height= '50%'>
+<img src="../paint/糖凌/3.jpg" width='30%' height= '50%'>
+<img src="../paint/糖凌/4.jpg" width='30%' height= '50%'>
+<img src="../paint/糖凌/5.jpg" width='30%' height= '50%'>
+<img src="../paint/糖凌/6.jpg" width='30%' height= '50%'>
+<img src="../paint/糖凌/7.jpg" width='30%' height= '50%'>
+<img src="../paint/糖凌/8.jpg" width='30%' height= '50%'>
+
+
 
 ## Tenmei - 琥珀原
 
@@ -642,7 +795,7 @@ sidebar: false
 * 兔牙2Amier
 * 主日系风格，厚涂赛璐璐皆可，Q版正比男女都擅长。
 * 我很好说话！喜欢画可爱女孩子也喜欢可爱女孩子！
-* 暂不接稿  
+* 约稿走米画师
 
 <img src="../paint/兔牙牙/1.jpg" width='30%' height= '50%'>
 <img src="../paint/兔牙牙/8.jpg" width='30%' height= '50%'>
@@ -705,6 +858,20 @@ sidebar: false
 <img src="../paint/星間/8.jpg" width='30%' height= '50%'>
 <img src="../paint/星間/9.jpg" width='30%' height= '50%'>
 
+## 星零寒 - 柔风海湾
+* 我是沧寒！或者叫我Nyx也可以ww
+* 微博:Nyx_1  B站：是Nyx哟【欢迎找我玩！】
+* 是一个自设人（确认）最近在画插画！接稿倒是什么都在接xxx加入速写室是为了改改我画画一点也不果断的臭习惯来着，没有例图非常抱歉……！
+* 欢迎找我唠oc还有互绘……！现在还在ff绝赞建设我家孩子们的家！？欢迎来参观！！（嗯？！）
+
+<img src="../paint/星零寒/5.jpg" width='30%' height= '50%'>
+<img src="../paint/星零寒/6.jpg" width='30%' height= '50%'>
+<img src="../paint/星零寒/4.jpg" width='30%' height= '50%'>
+<img src="../paint/星零寒/2.jpg" width='30%' height= '50%'>
+<img src="../paint/星零寒/3.jpg" width='30%' height= '50%'>
+<img src="../paint/星零寒/7.jpg" width='30%' height= '50%'>
+<img src="../paint/星零寒/1.jpg" width='90%' height= '50%'>
+
 ## 洵洵 - 柔风海湾
 大家好！可以喊我洵洵/啊影！
 是狂打游戏不画画的摸鱼人（你）观景旅游玩家一枚
@@ -737,17 +904,16 @@ sidebar: false
 
 ## 疫响 - 静语庄园
 * =朔云座/疫响
-* 疲惫社畜 随缘接稿
-* 主职艾欧泽亚摸鱼人 饲养菜叶跳鱼专业户  
-* 虽然擅长的东西很少但路不能走窄了！ 
-(翻译：啥都想画画看)  
+* 主职艾欧泽亚摸鱼人 菜叶跳鱼养殖专业户
+* 画风随时突变 会用速写摸鱼来尝试新东西 喜欢在舒适区边缘左右横跳
+* 详询 疯 狂 星 期 日   v 我 1 5 0 ♪
 
 <img src="../paint/疫响/1.jpg" width='30%' height= '50%'>
 <img src="../paint/疫响/2.jpg" width='30%' height= '50%'>
 <img src="../paint/疫响/3.jpg" width='30%' height= '50%'>
-<img src="../paint/疫响/4.jpg" width='30%' height= '50%'>
+<img src="../paint/疫响/4.jpg" width='26.3%' height= '50%'>
 <img src="../paint/疫响/5.jpg" width='30%' height= '50%'>
-<img src="../paint/疫响/6.jpg" width='30%' height= '50%'>
+<img src="../paint/疫响/6.jpg" width='26.7%' height= '50%'>
 <img src="../paint/疫响/7.jpg" width='30%' height= '50%'>
 <img src="../paint/疫响/8.jpg" width='30%' height= '50%'>
 <img src="../paint/疫响/9.jpg" width='30%' height= '50%'>
@@ -795,6 +961,17 @@ sidebar: false
 <img src="../paint/桜雨灵鸢/6.jpg" width='30%' height= '50%'>
 <img src="../paint/桜雨灵鸢/7.jpg" width='30%' height= '50%'>
 <img src="../paint/桜雨灵鸢/8.jpg" width='30%' height= '50%'>
+
+## 因泽尔 - 琥珀原
+* 可以叫我面包柴 
+* 个人简介信息
+* 常在战场豆芽，我爱cf碎冰狗都不打。私约稿金糖都可，画一些漂亮小姑娘会很开心，如果有绘画同好找我一起玩一起画画也大欢迎╰(*´︶`*)╯
+
+<img src="../paint/因泽尔/5.jpg" width='28%' height= '50%'>
+<img src="../paint/因泽尔/2.jpg" width='30%' height= '50%'>
+<img src="../paint/因泽尔/3.jpg" width='30%' height= '50%'>
+<img src="../paint/因泽尔/4.jpg" width='40%' height= '50%'>
+<img src="../paint/因泽尔/1.jpg" width='30%' height= '50%'>
 
 ## 萦川 - 柔风海湾
 * 大家好我是07，一般路过睡呼呼光之战士
