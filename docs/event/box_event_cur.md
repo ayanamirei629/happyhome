@@ -1,16 +1,18 @@
 # 近期盲盒/明盒活动参与画师
 <img src="../paint/icon/box_event_pic1.jpg" width='100%' height= '100%'/>
 
-### 12月10日活动汇总情况
+### 1月14日活动汇总情况
 | 画师<img width=200/> | <img width=85.6/>明盒<img width=86/>  | <img width=86/>盲盒<img width=86/> |
 |:---|:---:|:---:|
 | [古拉哈提亚](../drawer/list.html#古拉哈提亚-紫水栈桥)  | :no_entry:  | ✅ |
-| [平音](../drawer/list.html#平音-摩杜纳)  | ✅  | :no_entry: |
-| [水澤](../drawer/list.html#水澤-柔风海湾)  | :no_entry:  | ✅ |
-|  杰jason | ✅  | ✅ |
 | [saku翼](../drawer/list.html#saku翼-摩杜纳)  | ✅  | ✅ |
-| [南鱼七](../drawer/list.html#南鱼七-静语庄园) | ✅  | :no_entry:  |
-| [拉文克劳新生](../drawer/list.html#拉文克劳新生-琥珀原) | ✅  | :no_entry:  |
+| [奇弗利](../drawer/list.html#奇弗利-静语庄园)  |  |  ✅ |
+| onnea  | :no_entry:  |  ✅ |
+|  [红豆丸子汤](../drawer/list.html#红豆丸子汤-摩杜纳) | ✅  | :no_entry: |
+|  杰jason | ✅  | ✅ |
+| [平音](../drawer/list.html#平音-摩杜纳)  | ✅  | :no_entry: |
+| [李美龟](../drawer/list.html#李美龟-延夏)  | ✅  | :no_entry: |
+| [清川白羽](../drawer/list.html#清川白羽-延夏)  | :no_entry:  | ✅ |
 
 
 
@@ -26,12 +28,13 @@
 
 
 
-<!-- ### 12月10日常驻盒汇总情况
+
+
+### 12月10日常驻盒汇总情况
 | 画师<img width=200/> | <img width=69.7/>常驻盒<img width=86/> | <img width=86/>数量<img width=86/> |
 |:---|:---:|:---:|
-| [速水铁](../drawer/list.html#速水铁-柔风海湾)  | ✅  | 1 |
-|  杰jason | ✅ | 1 |
-| [Tenmei](../drawer/list.html#Tenmei-琥珀原)  | ✅ | 1| -->
+| [塞芙拉](../drawer/list.html#塞芙拉-紫水栈桥)  | ✅  | 1 |
+
 
 <!-- |  [源太](../drawer/list.html#源太-紫水栈桥) | ✅ |
 | [剑盾小哔](../drawer/list.html#剑盾小哔-柔风海湾)  |  ✅ |
@@ -42,7 +45,8 @@
 <!-- 
 | [每日动态速写](../drawer/list.html#每日动态速写-紫水栈桥) | ✅  |
 |  杰jason | ✅ |
-
+|  杰jason | ✅ | 1 |
+| [Tenmei](../drawer/list.html#Tenmei-琥珀原)  | ✅ | 1|
 | [绿宝石兽](../drawer/list.html#绿宝石兽-静语庄园)  | ✅  |
 | [萦川](../drawer/list.html#古拉哈提亚-紫水栈桥)  | ✅  | 1|
 | [Huafan](../drawer/list.html#huafan-延夏)  | ✅  | 2|
@@ -85,12 +89,13 @@
 | [Acid](../drawer/list.html#acid-琥珀原)  | :no_entry:  |  ✅ |
 | [克洛纳唐](../drawer/list.html#克洛纳唐-琥珀原)  | ✅  |  ✅ |
 | [绿宝石兽](../drawer/list.html#绿宝石兽-静语庄园)  | ✅  | :no_entry:  |
-| [奇弗利](../drawer/list.html#奇弗利-静语庄园)  | :no_entry:  |  ✅ |
-|  [源太](../drawer/list.html#源太-紫水栈桥) | ✅  | ✅ |
 
+|  [源太](../drawer/list.html#源太-紫水栈桥) | ✅  | ✅ |
+| [南鱼七](../drawer/list.html#南鱼七-静语庄园) | ✅  | :no_entry:  |
 |  杰jason | :no_entry:  | ✅ |
 | [时汪汪汪](../drawer/list.html#时汪汪汪-摩杜纳) | ✅ | :no_entry:  |
 
+| [拉文克劳新生](../drawer/list.html#拉文克劳新生-琥珀原) | ✅  | :no_entry:  |
 | [黑貘纹丝不动](../drawer/list.html#黑貘纹丝不动-柔风海湾)  | ✅  | ✅ |
 | [笼岛芒](../drawer/list.html#笼岛芒-柔风海湾) | :no_entry:  | ✅ |
 
@@ -130,8 +135,8 @@
 
 | [Osamu](../drawer/list.html#osamu-琥珀原)  | ✅  |  :no_entry: |
 
-|  [红豆丸子汤](../drawer/list.html#红豆丸子汤-摩杜纳) | :no_entry:  | ✅ |
-| [李美龟](../drawer/list.html#李美龟-延夏)  | ✅  | :no_entry: |
+
+
 
 
 |  奶盖四季春 | :no_entry:  | ✅ |
@@ -150,7 +155,7 @@
 | [睡眠妨害](../drawer/list.html#睡眠妨害-柔风海湾)  | :no_entry:  |  ✅ |
 | [星零寒](../drawer/list.html#星零寒-柔风海湾)  | ✅  | :no_entry:  |
 
-
+| [水澤](../drawer/list.html#水澤-柔风海湾)  | :no_entry:  | ✅ |
 
 
 | [栊](../drawer/list.html#栊-摩杜纳)  | ✅  | :no_entry: |

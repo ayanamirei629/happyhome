@@ -560,6 +560,12 @@ sidebar: false
 <img src="../paint/平音/1.jpg" width='57%' height= '50%'>
 <img src="../paint/平音/2.jpg" width='30%' height= '50%'>
 
+## 清川白羽 - 延夏
+* 你好！这里是清川白羽！可以随意称呼我，叫我阿辞也行！
+* 擅长画毛茸茸，不太会画人类和一些小裙子果咩tut，可以把单主的设定拟成小猫小狗！
+* 私稿金糖都可。俺是摸鱼人，+俺一起玩也行！帅哥美女请摩多摩多！
+<img src="../paint/清川白羽/1.jpg" width='90%' height= '50%'>
+<img src="../paint/清川白羽/2.jpg" width='90%' height= '50%'>
 
 ## Rosin - 琥珀原
 * 你好这里是Neofili，米画师同名偶尔开摸鱼橱窗，需要的话可以关注一下（鞠躬）比较擅长幻想风格和QQ人

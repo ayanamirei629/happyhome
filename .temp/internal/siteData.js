@@ -8,32 +8,22 @@ export const siteData = {
   "headTags": [],
   "pages": [
     {
-      "title": "快乐老家画室",
+      "title": "近期盲盒/明盒活动参与画师",
       "frontmatter": {},
-      "regularPath": "/",
-      "relativePath": "README.md",
-      "key": "v-1a755618",
-      "path": "/",
+      "regularPath": "/event/box_event_cur.html",
+      "relativePath": "event/box_event_cur.md",
+      "key": "v-b1c8d44c",
+      "path": "/event/box_event_cur.html",
       "headers": [
         {
-          "level": 2,
-          "title": "1.画室简介",
-          "slug": "_1-画室简介"
+          "level": 3,
+          "title": "1月14日活动汇总情况",
+          "slug": "_1月14日活动汇总情况"
         },
         {
-          "level": 2,
-          "title": "2.活动范围",
-          "slug": "_2-活动范围"
-        },
-        {
-          "level": 2,
-          "title": "3.活动内容",
-          "slug": "_3-活动内容"
-        },
-        {
-          "level": 2,
-          "title": "4.画师资格的审核和申请",
-          "slug": "_4-画师资格的审核和申请"
+          "level": 3,
+          "title": "12月10日常驻盒汇总情况",
+          "slug": "_12月10日常驻盒汇总情况"
         }
       ]
     },
@@ -271,6 +261,11 @@ export const siteData = {
         },
         {
           "level": 2,
+          "title": "清川白羽 - 延夏",
+          "slug": "清川白羽-延夏"
+        },
+        {
+          "level": 2,
           "title": "Rosin - 琥珀原",
           "slug": "rosin-琥珀原"
         },
@@ -296,8 +291,8 @@ export const siteData = {
         },
         {
           "level": 2,
-          "title": "伤害降低 - 紫水栈桥",
-          "slug": "伤害降低-紫水栈桥"
+          "title": "塞芙拉 - 紫水栈桥",
+          "slug": "塞芙拉-紫水栈桥"
         },
         {
           "level": 2,
@@ -452,36 +447,32 @@ export const siteData = {
       ]
     },
     {
-      "title": "近期盲盒/明盒活动参与画师",
+      "title": "快乐老家画室",
       "frontmatter": {},
-      "regularPath": "/event/box_event_cur.html",
-      "relativePath": "event/box_event_cur.md",
-      "key": "v-b1c8d44c",
-      "path": "/event/box_event_cur.html",
-      "headers": [
-        {
-          "level": 3,
-          "title": "12月10日活动汇总情况",
-          "slug": "_12月10日活动汇总情况"
-        }
-      ]
-    },
-    {
-      "frontmatter": {},
-      "regularPath": "/event/christmas_event.html",
-      "relativePath": "event/christmas_event.md",
-      "key": "v-5f82029a",
-      "path": "/event/christmas_event.html",
+      "regularPath": "/",
+      "relativePath": "README.md",
+      "key": "v-1a755618",
+      "path": "/",
       "headers": [
         {
           "level": 2,
-          "title": "活动时间&地点",
-          "slug": "活动时间-地点"
+          "title": "1.画室简介",
+          "slug": "_1-画室简介"
         },
         {
           "level": 2,
-          "title": "活动活动详情",
-          "slug": "活动活动详情"
+          "title": "2.活动范围",
+          "slug": "_2-活动范围"
+        },
+        {
+          "level": 2,
+          "title": "3.活动内容",
+          "slug": "_3-活动内容"
+        },
+        {
+          "level": 2,
+          "title": "4.画师资格的审核和申请",
+          "slug": "_4-画师资格的审核和申请"
         }
       ]
     },
@@ -521,6 +512,66 @@ export const siteData = {
           "level": 2,
           "title": "",
           "slug": "明盒盲盒活动"
+        }
+      ]
+    },
+    {
+      "frontmatter": {
+        "search": false
+      },
+      "regularPath": "/update/update.html",
+      "relativePath": "update/update.md",
+      "key": "v-29a8a918",
+      "path": "/update/update.html",
+      "headers": [
+        {
+          "level": 3,
+          "title": "2022.11.19 Version 1.2.0",
+          "slug": "_2022-11-19-version-1-2-0"
+        },
+        {
+          "level": 3,
+          "title": "2022.11.10 Version 1.1.1:",
+          "slug": "_2022-11-10-version-1-1-1"
+        },
+        {
+          "level": 3,
+          "title": "🔥2022.11.10 Version 1.0.0 Init🔥:",
+          "slug": "_2022-11-10-version-1-0-0-init"
+        }
+      ]
+    },
+    {
+      "title": "Planed Update",
+      "frontmatter": {},
+      "regularPath": "/update/plan.html",
+      "relativePath": "update/plan.md",
+      "key": "v-20b94b98",
+      "path": "/update/plan.html",
+      "headers": [
+        {
+          "level": 3,
+          "title": "Before end of 2022:",
+          "slug": "before-end-of-2022"
+        }
+      ]
+    },
+    {
+      "frontmatter": {},
+      "regularPath": "/event/christmas_event.html",
+      "relativePath": "event/christmas_event.md",
+      "key": "v-5f82029a",
+      "path": "/event/christmas_event.html",
+      "headers": [
+        {
+          "level": 2,
+          "title": "活动时间&地点",
+          "slug": "活动时间-地点"
+        },
+        {
+          "level": 2,
+          "title": "活动活动详情",
+          "slug": "活动活动详情"
         }
       ]
     },
@@ -611,47 +662,6 @@ export const siteData = {
           "level": 3,
           "title": "2.目录栏",
           "slug": "_2-目录栏"
-        }
-      ]
-    },
-    {
-      "title": "Planed Update",
-      "frontmatter": {},
-      "regularPath": "/update/plan.html",
-      "relativePath": "update/plan.md",
-      "key": "v-20b94b98",
-      "path": "/update/plan.html",
-      "headers": [
-        {
-          "level": 3,
-          "title": "Before end of 2022:",
-          "slug": "before-end-of-2022"
-        }
-      ]
-    },
-    {
-      "frontmatter": {
-        "search": false
-      },
-      "regularPath": "/update/update.html",
-      "relativePath": "update/update.md",
-      "key": "v-29a8a918",
-      "path": "/update/update.html",
-      "headers": [
-        {
-          "level": 3,
-          "title": "2022.11.19 Version 1.2.0",
-          "slug": "_2022-11-19-version-1-2-0"
-        },
-        {
-          "level": 3,
-          "title": "2022.11.10 Version 1.1.1:",
-          "slug": "_2022-11-10-version-1-1-1"
-        },
-        {
-          "level": 3,
-          "title": "🔥2022.11.10 Version 1.0.0 Init🔥:",
-          "slug": "_2022-11-10-version-1-0-0-init"
         }
       ]
     }
