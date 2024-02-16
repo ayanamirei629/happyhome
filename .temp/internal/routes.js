@@ -37,6 +37,14 @@ export const routes = [
     redirect: "/"
   },
   {
+    name: "v-5f82029a",
+    path: "/event/christmas_event.html",
+    component: GlobalLayout,
+    beforeEnter: (to, from, next) => {
+      ensureAsyncComponentsLoaded("Layout", "v-5f82029a").then(next)
+    },
+  },
+  {
     name: "v-12f68e8e",
     path: "/event/box_event_info.html",
     component: GlobalLayout,
@@ -45,11 +53,11 @@ export const routes = [
     },
   },
   {
-    name: "v-5fe308ac",
-    path: "/eventing/event_now.html",
+    name: "v-97d799b2",
+    path: "/guide.html",
     component: GlobalLayout,
     beforeEnter: (to, from, next) => {
-      ensureAsyncComponentsLoaded("Layout", "v-5fe308ac").then(next)
+      ensureAsyncComponentsLoaded("Layout", "v-97d799b2").then(next)
     },
   },
   {
@@ -69,19 +77,11 @@ export const routes = [
     },
   },
   {
-    name: "v-5f82029a",
-    path: "/event/christmas_event.html",
+    name: "v-5fe308ac",
+    path: "/eventing/event_now.html",
     component: GlobalLayout,
     beforeEnter: (to, from, next) => {
-      ensureAsyncComponentsLoaded("Layout", "v-5f82029a").then(next)
-    },
-  },
-  {
-    name: "v-97d799b2",
-    path: "/guide.html",
-    component: GlobalLayout,
-    beforeEnter: (to, from, next) => {
-      ensureAsyncComponentsLoaded("Layout", "v-97d799b2").then(next)
+      ensureAsyncComponentsLoaded("Layout", "v-5fe308ac").then(next)
     },
   },
   {

@@ -838,7 +838,7 @@ sidebar: false
 <img src="../paint/Secer/5.jpg" width='56.5%' height= '50%'>
 <img src="../paint/Secer/6.jpg" width='90%' height= '50%'>
 
-## Seleas - 海猫茶屋
+<!-- ## Seleas - 海猫茶屋
 * 是双子猫猫，天童院椿·&伊地崎丽奈·，我们在海猫茶屋
 * 不接稿，太菜，在练，请多指教。只画女性角色和猫男，沉迷战场（x，在画了在画了
 * 微博@想和你一起看荣誉野的雪
@@ -849,7 +849,20 @@ sidebar: false
 <img src="../paint/Seleas/2.jpg" width='47%' height= '50%'>
 <img src="../paint/Seleas/3.jpg" width='47%' height= '50%'>
 <img src="../paint/Seleas/4.jpg" width='47%' height= '50%'>
-<img src="../paint/Seleas/5.jpg" width='100%' height= '50%'>
+<img src="../paint/Seleas/5.jpg" width='100%' height= '50%'> -->
+
+## 小动物尸块 - 紫水栈桥
+* 这里是曼巴！
+* 个人简介信息
+* 脱芽没有多久，最近在高难入门，偶尔战场
+* 水晶冲突!约稿糖金都可，但是主糖!目前接的比较多的是qq人，但是也很想尝试接接正比头像和特殊种族【鲁加大猫】这样的！虽然有翻车风险【【
+
+<img src="../paint/小动物尸块/1.jpg" width='30%' height= '50%'>
+<img src="../paint/小动物尸块/2.jpg" width='30%' height= '50%'>
+<img src="../paint/小动物尸块/3.jpg" width='30%' height= '50%'>
+<img src="../paint/小动物尸块/4.jpg" width='45%' height= '50%'>
+<img src="../paint/小动物尸块/5.jpg" width='45%' height= '50%'>
+
 
 ## 星間 - 海猫茶屋
 * 这里是星间！！

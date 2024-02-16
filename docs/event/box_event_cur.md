@@ -1,18 +1,15 @@
 # 近期盲盒/明盒活动参与画师
 <img src="../paint/icon/box_event_pic1.jpg" width='100%' height= '100%'/>
 
-### 1月14日活动汇总情况
+### 1月28日活动汇总情况
 | 画师<img width=200/> | <img width=85.6/>明盒<img width=86/>  | <img width=86/>盲盒<img width=86/> |
 |:---|:---:|:---:|
 | [古拉哈提亚](../drawer/list.html#古拉哈提亚-紫水栈桥)  | :no_entry:  | ✅ |
-| [saku翼](../drawer/list.html#saku翼-摩杜纳)  | ✅  | ✅ |
-| [奇弗利](../drawer/list.html#奇弗利-静语庄园)  |  |  ✅ |
-| onnea  | :no_entry:  |  ✅ |
-|  [红豆丸子汤](../drawer/list.html#红豆丸子汤-摩杜纳) | ✅  | :no_entry: |
-|  杰jason | ✅  | ✅ |
 | [平音](../drawer/list.html#平音-摩杜纳)  | ✅  | :no_entry: |
-| [李美龟](../drawer/list.html#李美龟-延夏)  | ✅  | :no_entry: |
-| [清川白羽](../drawer/list.html#清川白羽-延夏)  | :no_entry:  | ✅ |
+|  [源太](../drawer/list.html#源太-紫水栈桥) |  :no_entry:  | ✅ |
+| [奇弗利](../drawer/list.html#奇弗利-静语庄园)  | :no_entry: |  ✅ |
+|  [红豆丸子汤](../drawer/list.html#红豆丸子汤-摩杜纳) | ✅  | :no_entry: |
+| onnea  | :no_entry:  |  ✅ |
 
 
 
@@ -26,14 +23,12 @@
 
 
 
+<!-- 
 
-
-
-
-### 12月10日常驻盒汇总情况
+### 1月14日常驻盒汇总情况
 | 画师<img width=200/> | <img width=69.7/>常驻盒<img width=86/> | <img width=86/>数量<img width=86/> |
 |:---|:---:|:---:|
-| [塞芙拉](../drawer/list.html#塞芙拉-紫水栈桥)  | ✅  | 1 |
+| [塞芙拉](../drawer/list.html#塞芙拉-紫水栈桥)  | ✅  | 1 | -->
 
 
 <!-- |  [源太](../drawer/list.html#源太-紫水栈桥) | ✅ |
@@ -90,7 +85,16 @@
 | [克洛纳唐](../drawer/list.html#克洛纳唐-琥珀原)  | ✅  |  ✅ |
 | [绿宝石兽](../drawer/list.html#绿宝石兽-静语庄园)  | ✅  | :no_entry:  |
 
-|  [源太](../drawer/list.html#源太-紫水栈桥) | ✅  | ✅ |
+
+| [saku翼](../drawer/list.html#saku翼-摩杜纳)  | ✅  | ✅ |
+
+|  杰jason | ✅  | ✅ |
+
+| [李美龟](../drawer/list.html#李美龟-延夏)  | ✅  | :no_entry: |
+| [清川白羽](../drawer/list.html#清川白羽-延夏)  | :no_entry:  | ✅ |
+
+
+
 | [南鱼七](../drawer/list.html#南鱼七-静语庄园) | ✅  | :no_entry:  |
 |  杰jason | :no_entry:  | ✅ |
 | [时汪汪汪](../drawer/list.html#时汪汪汪-摩杜纳) | ✅ | :no_entry:  |
