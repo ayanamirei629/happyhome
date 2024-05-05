@@ -1,15 +1,18 @@
 # 近期盲盒/明盒活动参与画师
 <img src="../paint/icon/box_event_pic1.jpg" width='100%' height= '100%'/>
 
-### 1月28日活动汇总情况
+### 5月5日活动汇总情况
 | 画师<img width=200/> | <img width=85.6/>明盒<img width=86/>  | <img width=86/>盲盒<img width=86/> |
 |:---|:---:|:---:|
-| [古拉哈提亚](../drawer/list.html#古拉哈提亚-紫水栈桥)  | :no_entry:  | ✅ |
+|  [今原香衣璃](../drawer/list.html#今原香衣璃-紫水栈桥) | ✅  | :no_entry: |
 | [平音](../drawer/list.html#平音-摩杜纳)  | ✅  | :no_entry: |
+| [古拉哈提亚](../drawer/list.html#古拉哈提亚-紫水栈桥)  | :no_entry:  | ✅ |
 |  [源太](../drawer/list.html#源太-紫水栈桥) |  :no_entry:  | ✅ |
-| [奇弗利](../drawer/list.html#奇弗利-静语庄园)  | :no_entry: |  ✅ |
-|  [红豆丸子汤](../drawer/list.html#红豆丸子汤-摩杜纳) | ✅  | :no_entry: |
-| onnea  | :no_entry:  |  ✅ |
+| [saku翼](../drawer/list.html#saku翼-摩杜纳)  | ✅  | ✅ |
+
+
+
+
 
 
 
@@ -79,14 +82,19 @@
 * [Osamu](../drawer/list.html#古拉哈提亚-紫水栈桥)
 * [伊格諾尔](../drawer/list.html#古拉哈提亚-静语庄园)
 * [困死了](../drawer/list.html#古拉哈提亚-紫水栈桥)
-
+| onnea  | :no_entry:  |  ✅ |
 | [艾利欧](../drawer/list.html#艾利欧-静语庄园)  | ✅  |
 | [Acid](../drawer/list.html#acid-琥珀原)  | :no_entry:  |  ✅ |
 | [克洛纳唐](../drawer/list.html#克洛纳唐-琥珀原)  | ✅  |  ✅ |
 | [绿宝石兽](../drawer/list.html#绿宝石兽-静语庄园)  | ✅  | :no_entry:  |
 
+| [塞芙拉](../drawer/list.html#塞芙拉-紫水栈桥)  | ✅  | :no_entry: |
+| [南鱼七](../drawer/list.html#南鱼七-静语庄园) | ✅  | :no_entry:  |
 
-| [saku翼](../drawer/list.html#saku翼-摩杜纳)  | ✅  | ✅ |
+
+|  [红豆丸子汤](../drawer/list.html#红豆丸子汤-摩杜纳) | ✅  | :no_entry: |
+
+| secer  | ✅ |  :no_entry: |
 
 |  杰jason | ✅  | ✅ |
 
@@ -94,8 +102,8 @@
 | [清川白羽](../drawer/list.html#清川白羽-延夏)  | :no_entry:  | ✅ |
 
 
+| [奇弗利](../drawer/list.html#奇弗利-静语庄园)  | ✅ |  ✅ |
 
-| [南鱼七](../drawer/list.html#南鱼七-静语庄园) | ✅  | :no_entry:  |
 |  杰jason | :no_entry:  | ✅ |
 | [时汪汪汪](../drawer/list.html#时汪汪汪-摩杜纳) | ✅ | :no_entry:  |
 
@@ -122,7 +130,7 @@
 | [速水铁](../drawer/list.html#速水铁-柔风海湾)  | ✅  | :no_entry: |
 | [萦川](../drawer/list.html#古拉哈提亚-紫水栈桥)  | ✅  | :no_entry: |
 | [糖凌凌凌凌](../drawer/list.html#糖凌凌凌凌-柔风海湾) | ✅  | ✅ |
-|  今原香衣璃 | ✅  | :no_entry: |
+
 | [Salons](../drawer/list.html#salons-静语庄园)  | :no_entry:  | ✅ |
 | [Ps保存了吗](../drawer/list.html#ps保存了吗-静语庄园)  |  ✅  | :no_entry: |
 |  [Rosin](../drawer/list.html#rosin-琥珀原) | ✅  | ✅ |

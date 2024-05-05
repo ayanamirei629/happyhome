@@ -175,6 +175,21 @@ sidebar: false
 <img src="../paint/德菲亚/5.jpg" width='30%' height= '50%'>
 <img src="../paint/德菲亚/6.jpg" width='30%' height= '50%'>
 
+## 东亚狂攻 - 延夏
+
+* 可以叫我川川 / 狂攻，
+* 休闲玩家，pve 、pvp都摸点～龙男男精茂南摩多摩多～欢迎来我肩膀遛弯（不是）
+* 可约私稿！男号女号都能画点！画大头的多，欢迎各位来！随机会掉落QQ小人（概率未知）（叔，鲁家，大猫慎约，因为画得蛮少可能会翻车！当然也欢迎来赌一把？）
+* 以上！下面是我的一些画风参考！
+
+<img src="../paint/东亚狂攻/1.jpg" width='30%' height= '50%'>
+<img src="../paint/东亚狂攻/2.jpg" width='30%' height= '50%'>
+<img src="../paint/东亚狂攻/3.jpg" width='30%' height= '50%'>
+<img src="../paint/东亚狂攻/4.jpg" width='30%' height= '50%'>
+<img src="../paint/东亚狂攻/5.jpg" width='30%' height= '50%'>
+<img src="../paint/东亚狂攻/6.jpg" width='30%' height= '50%'>
+
+
 ## 渡邊麻友 - 静语庄园
 * 您好！我是锤！
 * 纷争前线绝赞搏斗中(^з^)-☆又菜又爱玩（x）
@@ -379,17 +394,18 @@ sidebar: false
 <img src="../paint/拉文克劳新生/5.jpg" width='45%' height= '50%'>
 
 
-## 烙饼饼 - 紫水栈桥
+## 今原香衣璃 - 紫水栈桥
 * 可以叫我饼饼（对手指） 
 * 擅长画萌妹，不太擅长画叔系角色orz
 * 长期接QQ人，互绘大欢迎！！（求您了qaq  
 
-<img src="../paint/烙饼饼/1.jpg" width='30%' height= '50%'>
-<img src="../paint/烙饼饼/6.jpg" width='30%' height= '50%'>
-<img src="../paint/烙饼饼/3.jpg" width='30%' height= '50%'>
-<img src="../paint/烙饼饼/4.jpg" width='30%' height= '50%'>
-<img src="../paint/烙饼饼/5.jpg" width='30%' height= '50%'>
-<img src="../paint/烙饼饼/2.jpg" width='30%' height= '50%'>
+<img src="../paint/今原香衣璃/1.jpg" width='30%' height= '50%'>
+<img src="../paint/今原香衣璃/2.jpg" width='30%' height= '50%'>
+<img src="../paint/今原香衣璃/3.jpg" width='30%' height= '50%'>
+<img src="../paint/今原香衣璃/4.jpg" width='52%' height= '50%'>
+<img src="../paint/今原香衣璃/5.jpg" width='38%' height= '50%'>
+<img src="../paint/今原香衣璃/6.jpg" width='45%' height= '50%'>
+<img src="../paint/今原香衣璃/7.jpg" width='45%' height= '50%'>
 
 ## Lexuse - 静语庄园
 * 可以叫我tmo/偷猫

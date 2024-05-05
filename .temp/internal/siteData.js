@@ -8,25 +8,10 @@ export const siteData = {
   "headTags": [],
   "pages": [
     {
-      "title": "近期盲盒/明盒活动参与画师",
-      "frontmatter": {},
-      "regularPath": "/event/box_event_cur.html",
-      "relativePath": "event/box_event_cur.md",
-      "key": "v-b1c8d44c",
-      "path": "/event/box_event_cur.html",
-      "headers": [
-        {
-          "level": 3,
-          "title": "1月28日活动汇总情况",
-          "slug": "_1月28日活动汇总情况"
-        }
-      ]
-    },
-    {
       "frontmatter": {},
       "regularPath": "/drawer/list.html",
       "relativePath": "drawer/list.md",
-      "key": "v-5ad619d4",
+      "key": "v-2f2211e2",
       "path": "/drawer/list.html",
       "headers": [
         {
@@ -93,6 +78,11 @@ export const siteData = {
           "level": 2,
           "title": "德菲亚 - 柔风海湾",
           "slug": "德菲亚-柔风海湾"
+        },
+        {
+          "level": 2,
+          "title": "东亚狂攻 - 延夏",
+          "slug": "东亚狂攻-延夏"
         },
         {
           "level": 2,
@@ -181,8 +171,8 @@ export const siteData = {
         },
         {
           "level": 2,
-          "title": "烙饼饼 - 紫水栈桥",
-          "slug": "烙饼饼-紫水栈桥"
+          "title": "今原香衣璃 - 紫水栈桥",
+          "slug": "今原香衣璃-紫水栈桥"
         },
         {
           "level": 2,
@@ -439,14 +429,16 @@ export const siteData = {
           "title": "中华巨葱 - 海猫茶屋",
           "slug": "中华巨葱-海猫茶屋"
         }
-      ]
+      ],
+      "lastUpdated": "2/16/2024, 12:16:40 AM",
+      "lastUpdatedTimestamp": 1708060600000
     },
     {
       "title": "快乐老家画室",
       "frontmatter": {},
       "regularPath": "/",
       "relativePath": "README.md",
-      "key": "v-1a755618",
+      "key": "v-94e29fb4",
       "path": "/",
       "headers": [
         {
@@ -469,33 +461,16 @@ export const siteData = {
           "title": "4.画师资格的审核和申请",
           "slug": "_4-画师资格的审核和申请"
         }
-      ]
-    },
-    {
-      "frontmatter": {},
-      "regularPath": "/event/christmas_event.html",
-      "relativePath": "event/christmas_event.md",
-      "key": "v-5f82029a",
-      "path": "/event/christmas_event.html",
-      "headers": [
-        {
-          "level": 2,
-          "title": "活动时间&地点",
-          "slug": "活动时间-地点"
-        },
-        {
-          "level": 2,
-          "title": "活动活动详情",
-          "slug": "活动活动详情"
-        }
-      ]
+      ],
+      "lastUpdated": "5/6/2023, 11:15:52 AM",
+      "lastUpdatedTimestamp": 1683386152000
     },
     {
       "title": "活动详情",
       "frontmatter": {},
       "regularPath": "/event/box_event_info.html",
       "relativePath": "event/box_event_info.md",
-      "key": "v-12f68e8e",
+      "key": "v-4ef441c8",
       "path": "/event/box_event_info.html",
       "headers": [
         {
@@ -513,14 +488,70 @@ export const siteData = {
           "title": "注意事项",
           "slug": "注意事项"
         }
-      ]
+      ],
+      "lastUpdated": "12/3/2022, 4:56:25 PM",
+      "lastUpdatedTimestamp": 1670104585000
+    },
+    {
+      "title": "近期盲盒/明盒活动参与画师",
+      "frontmatter": {},
+      "regularPath": "/event/box_event_cur.html",
+      "relativePath": "event/box_event_cur.md",
+      "key": "v-7dc1b1e8",
+      "path": "/event/box_event_cur.html",
+      "headers": [
+        {
+          "level": 3,
+          "title": "5月5日活动汇总情况",
+          "slug": "_5月5日活动汇总情况"
+        }
+      ],
+      "lastUpdated": "2/16/2024, 12:16:40 AM",
+      "lastUpdatedTimestamp": 1708060600000
+    },
+    {
+      "frontmatter": {},
+      "regularPath": "/event/christmas_event.html",
+      "relativePath": "event/christmas_event.md",
+      "key": "v-030130b0",
+      "path": "/event/christmas_event.html",
+      "headers": [
+        {
+          "level": 2,
+          "title": "活动时间&地点",
+          "slug": "活动时间-地点"
+        },
+        {
+          "level": 2,
+          "title": "活动活动详情",
+          "slug": "活动活动详情"
+        }
+      ],
+      "lastUpdated": "12/3/2022, 4:56:25 PM",
+      "lastUpdatedTimestamp": 1670104585000
+    },
+    {
+      "frontmatter": {},
+      "regularPath": "/eventing/event_now.html",
+      "relativePath": "eventing/event_now.md",
+      "key": "v-64465f8c",
+      "path": "/eventing/event_now.html",
+      "headers": [
+        {
+          "level": 2,
+          "title": "",
+          "slug": "明盒盲盒活动"
+        }
+      ],
+      "lastUpdated": "12/3/2022, 4:56:25 PM",
+      "lastUpdatedTimestamp": 1670104585000
     },
     {
       "title": "操作手册",
       "frontmatter": {},
       "regularPath": "/guide.html",
       "relativePath": "guide.md",
-      "key": "v-97d799b2",
+      "key": "v-560d5f96",
       "path": "/guide.html",
       "headers": [
         {
@@ -603,7 +634,26 @@ export const siteData = {
           "title": "2.目录栏",
           "slug": "_2-目录栏"
         }
-      ]
+      ],
+      "lastUpdated": "11/6/2022, 3:12:03 PM",
+      "lastUpdatedTimestamp": 1667765523000
+    },
+    {
+      "title": "Planed Update",
+      "frontmatter": {},
+      "regularPath": "/update/plan.html",
+      "relativePath": "update/plan.md",
+      "key": "v-78215b7c",
+      "path": "/update/plan.html",
+      "headers": [
+        {
+          "level": 3,
+          "title": "Before end of 2022:",
+          "slug": "before-end-of-2022"
+        }
+      ],
+      "lastUpdated": "12/3/2022, 4:56:25 PM",
+      "lastUpdatedTimestamp": 1670104585000
     },
     {
       "frontmatter": {
@@ -611,7 +661,7 @@ export const siteData = {
       },
       "regularPath": "/update/update.html",
       "relativePath": "update/update.md",
-      "key": "v-29a8a918",
+      "key": "v-4980ec82",
       "path": "/update/update.html",
       "headers": [
         {
@@ -629,36 +679,9 @@ export const siteData = {
           "title": "🔥2022.11.10 Version 1.0.0 Init🔥:",
           "slug": "_2022-11-10-version-1-0-0-init"
         }
-      ]
-    },
-    {
-      "title": "Planed Update",
-      "frontmatter": {},
-      "regularPath": "/update/plan.html",
-      "relativePath": "update/plan.md",
-      "key": "v-20b94b98",
-      "path": "/update/plan.html",
-      "headers": [
-        {
-          "level": 3,
-          "title": "Before end of 2022:",
-          "slug": "before-end-of-2022"
-        }
-      ]
-    },
-    {
-      "frontmatter": {},
-      "regularPath": "/eventing/event_now.html",
-      "relativePath": "eventing/event_now.md",
-      "key": "v-5fe308ac",
-      "path": "/eventing/event_now.html",
-      "headers": [
-        {
-          "level": 2,
-          "title": "",
-          "slug": "明盒盲盒活动"
-        }
-      ]
+      ],
+      "lastUpdated": "12/3/2022, 4:56:25 PM",
+      "lastUpdatedTimestamp": 1670104585000
     }
   ],
   "themeConfig": {
